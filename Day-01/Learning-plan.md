@@ -15,7 +15,7 @@ You will create a **90-day personal DevOps learning plan** that clearly defines:
   Landing with Good HIKE in Salary and Career growth IN Devops and others related platform.
 - How you will stay consistent every single day?
   
-  For Devops, Everyday Spend - 2 to 3 hrs and Weekend - 4 hrs
+  # For Devops, Everyday Spend - 2 to 3 hrs and Weekend - 4 hrs
 
 This is not a generic plan.  
 This is your **career execution blueprint** for the next 90 days.
@@ -106,6 +106,7 @@ Use hashtags:
 #DevOpsKaJosh
 #TrainWithShubham
 
-
-Happy Learning  
-**TrainWithShubham**
+## GOAL ##
+1) Complete 90DaysOfDevOps Challange
+2) Complete one certification One Devops and One in Cloud
+3) Cracking an interview and Got hight pay salary Job in DevOps and related Platform
