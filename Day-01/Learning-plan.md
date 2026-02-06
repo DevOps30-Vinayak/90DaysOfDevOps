@@ -107,6 +107,6 @@ Use hashtags:
 #TrainWithShubham
 
 ## GOAL ##
-1) Complete 90DaysOfDevOps Challange
-2) Complete one certification One Devops and One in Cloud
-3) Cracking an interview and Got hight pay salary Job in DevOps and related Platform
+1) Completed 90DaysOfDevOps Challange
+2) Completed certification One Devops and One in Cloud
+3) Cracking an interview and Got high pay salary Job in DevOps and related Platform.
